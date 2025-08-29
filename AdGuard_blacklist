@@ -1,0 +1,6 @@
+# [media.net]
+127.0.0.1 media.net
+127.0.0.1 metrics.media.net
+
+# [yandex.ru]
+127.0.0.1 appmetrics.yandex.ru
